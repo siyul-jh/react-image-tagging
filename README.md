@@ -1,20 +1,20 @@
-# Getting Started with App
->Image Tagging Component
+# react-image-tagging
+
+React로 구현한 이미지 위에 태그를 생성하고 드래그로 이동할 수 있는 컴포넌트 데모입니다.
+
+## Features
+
+- 이미지 위 원하는 위치에 태그 생성
+- 태그 드래그 & 드롭으로 위치 이동
 
 ## Installation
 
 ```bash
-$ yarn install
+yarn install
 ```
 
-## Running the app
+## Running
 
 ```bash
-$ yarn run start
+yarn start
 ```
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
